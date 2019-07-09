@@ -1,1 +1,2 @@
 tslint.json merge=ours
+tsconfig.app.json merge=ours
