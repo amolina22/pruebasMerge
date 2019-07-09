@@ -3,13 +3,13 @@
     "rules": {
         "directive-selector": [
             true,
-            "PRUEBAS 2",
+            "MASTER 2",
             "app",
             "camelCase"
         ],
         "component-selector": [
             true,
-            "DEVELOP 3",
+            "MASTER 3",
             "app",
             "kebab-case"
         ]
