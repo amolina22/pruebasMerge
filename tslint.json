@@ -3,7 +3,7 @@
     "rules": {
         "directive-selector": [
             true,
-            "PRUEBAS",
+            "PRUEBAS 2",
             "app",
             "camelCase"
         ],
